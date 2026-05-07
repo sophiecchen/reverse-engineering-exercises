@@ -1,7 +1,5 @@
 # Reverse Engineering Exercises
 
-By Sophie Chen
-
 This repository contains the writeups for my reverse engineering class. I completed 10 labs:
 - Lab 1: A series of functions to reverse engineer
 - Lab 2: A runtime analysis lab
